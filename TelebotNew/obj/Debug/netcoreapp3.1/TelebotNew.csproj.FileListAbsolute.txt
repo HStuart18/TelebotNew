@@ -1,0 +1,64 @@
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\Implementations\RestaurantReservation\entities.json
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\TelebotNew.exe
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\TelebotNew.csprojAssemblyReference.cache
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\TelebotNew.AssemblyInfoInputs.cache
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\TelebotNew.AssemblyInfo.cs
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\TelebotNew.RazorTargetAssemblyInfo.cache
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\staticwebassets\TelebotNew.StaticWebAssets.Manifest.cache
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\staticwebassets\TelebotNew.StaticWebAssets.xml
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\TelebotNew.deps.json
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\TelebotNew.runtimeconfig.json
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\TelebotNew.runtimeconfig.dev.json
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\TelebotNew.dll
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\TelebotNew.pdb
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\TelebotNew.csproj.CopyComplete
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\TelebotNew.dll
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\TelebotNew.pdb
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\TelebotNew.genruntimeconfig.cache
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\Implementations\RestaurantReservation\goals.json
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\Universal.Common.dll
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\Universal.Common.Net.Http.dll
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\Implementations\RestaurantReservation\intents.json
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\TelebotNew.csproj.CoreCompileInputs.cache
+C:\Users\Harry\source\repos\Telebot 2.0\Telebot 2.0\obj\Debug\netcoreapp3.1\TelebotNew.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\Implementations\RestaurantReservation\entities.json
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\Implementations\RestaurantReservation\goals.json
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\Implementations\RestaurantReservation\intents.json
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\TelebotNew.exe
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\TelebotNew.deps.json
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\TelebotNew.runtimeconfig.json
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\TelebotNew.runtimeconfig.dev.json
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\TelebotNew.dll
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\TelebotNew.pdb
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\Universal.Common.dll
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\bin\Debug\netcoreapp3.1\Universal.Common.Net.Http.dll
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\TelebotNew.csprojAssemblyReference.cache
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\TelebotNew.AssemblyInfoInputs.cache
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\TelebotNew.AssemblyInfo.cs
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\TelebotNew.csproj.CoreCompileInputs.cache
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\TelebotNew.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\TelebotNew.RazorTargetAssemblyInfo.cache
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\TelebotNew.csproj.CopyComplete
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\staticwebassets\TelebotNew.StaticWebAssets.Manifest.cache
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\staticwebassets\TelebotNew.StaticWebAssets.xml
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\TelebotNew.dll
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\TelebotNew.pdb
+C:\Users\Harry\source\repos\TelebotNew\TelebotNew\obj\Debug\netcoreapp3.1\TelebotNew.genruntimeconfig.cache

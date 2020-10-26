@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLGRJK9l1zhSvlMH/ReymnJRWrE2GxQbnSKK8srjIpMqUPIbiMd0kdmk3D0RUGVOWvUUJsTAcuKSWHrx+uydyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harry\\source\\repos\\TelebotNew\\TelebotNew\\TelebotNew.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harry\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
+    "C:\\Users\\Harry\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
+    "C:\\Users\\Harry\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Harry\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Harry\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Harry\\.nuget\\packages\\system.net.http.json\\3.2.1\\system.net.http.json.3.2.1.nupkg.sha512",
+    "C:\\Users\\Harry\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Harry\\.nuget\\packages\\universal.common\\7.3.1.1\\universal.common.7.3.1.1.nupkg.sha512",
+    "C:\\Users\\Harry\\.nuget\\packages\\universal.common.net.http\\2.1.0.1\\universal.common.net.http.2.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

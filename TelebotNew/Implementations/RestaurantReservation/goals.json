@@ -1,0 +1,37 @@
+[
+  {
+    "ID": "GetName",
+    "ParentID": "START",
+    "GoalType": "CompositeGoal",
+    "ResponseType":  "",
+    "Text": "What is your name?",
+    "TrySkip": false,
+    "SubgoalIDs": [
+      "GetFirstName"
+    ]
+  },
+  {
+    "ID": "GetFirstName",
+    "ParentID": "GetName",
+    "GoalType": "AtomicRetrievalGoal",
+    "ResponseType": "",
+    "Text": "What is your first name?",
+    "EntityID": "FirstName"
+  },
+  {
+    "ID": "Greet",
+    "ParentID": "START",
+    "GoalType": "AtomicInformativeGoal",
+    "ResponseType": "",
+    "Text": "YO WASSUP BRUH!",
+    "DoContinue": true
+  },
+  {
+    "ID": "PromptForResponse",
+    "ParentID": "START",
+    "GoalType": "AtomicInformativeGoal",
+    "ResponseType": "",
+    "Text": "Are you there homie?",
+    "DoContinue": true
+  }
+]
